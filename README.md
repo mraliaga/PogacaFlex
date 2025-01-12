@@ -1,10 +1,10 @@
 🚀 Project Features
 
-![Homepage](gif/Zight Recording 2025-1-12 at 10.02.10 PM.gif)
+![Homepage](./gif/Zight%20Recording%202025-1-12%20at%2010.02.10%20PM.gif)
 
     •	Movie Search and Filtering Feature in MOBILE:
 
-![Search Feature GIF](gif/Zight Recording 2025-1-12 at 10.06.10 PM.gif)
+![Search Feature GIF](./gif/Zight%20Recording%202025-1-12%20at%2010.06.10%20PM.gif)
 
     •	Movie Search and Filtering: Easily search for movies by name, genre, or release year.
     •	Dynamic Content Updates: Content updates instantly without page reloads.
