@@ -1,10 +1,13 @@
 🚀 Project Features
+🎥 Screenshots and GIFs
 
-![Homepage](./gif/Zight%20Recording%202025-1-12%20at%2010.02.10%20PM.gif)
+    •	![Homepage](./gif/Zight%20Recording%202025-1-12%20at%2010.02.10%20PM.gif)
 
     •	Movie Search and Filtering Feature in MOBILE:
 
 ![Search Feature GIF](./gif/Zight%20Recording%202025-1-12%20at%2010.06.10%20PM.gif)
+
+Add a screenshot or GIF of the homepage here:
 
     •	Movie Search and Filtering: Easily search for movies by name, genre, or release year.
     •	Dynamic Content Updates: Content updates instantly without page reloads.
@@ -23,9 +26,3 @@
     •	HTML5
     •	CSS3 (Flexbox, Animations)
     •	Vanilla JavaScript
-
-🎥 Screenshots and GIFs
-
-    •	Homepage:
-
-Add a screenshot or GIF of the homepage here:
